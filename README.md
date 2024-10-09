@@ -1,6 +1,7 @@
 # reclaim-solxpass
 
-![Reclaim SolXPass Logo](https://github-production-user-asset-6210df.s3.amazonaws.com/132002655/374981667-23c691c8-68cf-4d84-98a9-30240117d105.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T190902Z&X-Amz-Expires=300&X-Amz-Signature=1b758c8d332aa6805004e9e070a636c1b2188c03efb3c16c0c462c9b0b2d743c&X-Amz-SignedHeaders=host)
+![23c691c8-68cf-4d84-98a9-30240117d105](https://github.com/user-attachments/assets/662981c1-7622-4b2d-9007-a801944abca4)
+
 
 [![npm version](https://img.shields.io/npm/v/reclaim-solxpass.svg)](https://www.npmjs.com/package/reclaim-solxpass)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
